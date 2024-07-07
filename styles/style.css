@@ -44,6 +44,7 @@
   .header {
     background-image: url("../images/developer.png") , url("../images/header_bg.png");
     background-repeat: no-repeat;
+    display: cover;
     background-position: top left, bottom right;
     margin-left: 10px;
   }
@@ -96,6 +97,7 @@
 
   .banner-profile-pic {
     width: 440px;
+    margin-top: 90px;
   }
 
   .banner-content {
